@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repoName/static/css/main.76c89a7b.css",
-    "main.js": "/repoName/static/js/main.185c4845.js",
-    "static/js/787.3bf0dcc2.chunk.js": "/repoName/static/js/787.3bf0dcc2.chunk.js",
-    "index.html": "/repoName/index.html",
-    "main.76c89a7b.css.map": "/repoName/static/css/main.76c89a7b.css.map",
-    "main.185c4845.js.map": "/repoName/static/js/main.185c4845.js.map",
-    "787.3bf0dcc2.chunk.js.map": "/repoName/static/js/787.3bf0dcc2.chunk.js.map"
+    "main.css": "/Reactcalculator2/static/css/main.76c89a7b.css",
+    "main.js": "/Reactcalculator2/static/js/main.70de75e7.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/Reactcalculator2/static/js/787.3bf0dcc2.chunk.js",
+    "index.html": "/Reactcalculator2/index.html",
+    "main.76c89a7b.css.map": "/Reactcalculator2/static/css/main.76c89a7b.css.map",
+    "main.70de75e7.js.map": "/Reactcalculator2/static/js/main.70de75e7.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/Reactcalculator2/static/js/787.3bf0dcc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76c89a7b.css",
-    "static/js/main.185c4845.js"
+    "static/js/main.70de75e7.js"
   ]
 }
