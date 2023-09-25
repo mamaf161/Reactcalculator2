@@ -38,4 +38,9 @@
 }
 button {
   padding: 0px;
+  margin-top: 5px;
+}
+input {
+  height: 30px;
+  margin-bottom: 10px;
 }
