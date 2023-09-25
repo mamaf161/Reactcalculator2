@@ -85,6 +85,7 @@ function App() {
 				<hr />
 
 				<h2>{result2}</h2>
+				<h2>my name</h2>
 			</div>
 		</div>
 	);
